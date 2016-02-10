@@ -2,8 +2,8 @@
 exports.url = 'play.pokemonshowdown.com';
 
 // The nick and password to log in with
-var nick = exports.nick = ''
-exports.pass = '';
+var nick = exports.nick = 'Zambot'
+exports.pass = 'tmlftw';
 
 // A list of private rooms that the bot will not leak through the seen command
 exports.privaterooms = [];
